@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection", 
+"features": 
+[
+	{
+	"type": "Feature", 
+	"geometry": {"type": "Point", "coordinates": ["105.924767", "26.251054"]}, 
+	"properties": {"id": "1", "name": "安顺阳光妇科医院", "province": "贵州省", "city": "安顺市", "district": "西秀区", "address": "中华北路与西水路交叉口路西", "phone": "", "google_map_id": "ChIJd57sOyAtxzYRrivDzjfGwxM", "gaode_map_id": "B03550I6R8"}
+	}, 
+	{
+	"type": "Feature", 
+	"geometry": {"type": "Point", "coordinates": ["114.334916", "36.090769"]}, 
+	"properties": {"id": "2", "name": "安阳协和医院", "province": "河南省", "city": "安阳市", "district": "龙安区", "address": "文明大道西段85号", "phone": "0372-3661777", "google_map_id": "ChIJ_7MijgcI3DUR6nw4IdmvNyo", "gaode_map_id": "B0174021QW"}
+	}, 
+	{
+	"type": "Feature", 
+	"geometry": {"type": "Point", "coordinates": ["117.377263", "32.950353"]}, 
+	"properties": {"id": "3", "name": "蚌埠澳美佳女子医院", "province": "安徽省", "city": "蚌埠市", "district": "龙子湖区", "address": "蚌埠市龙子湖区交通路143号", "phone": "+86 552 315 1111", "google_map_id": "ChIJ89b5MHFFyTURZ2gzoGoCqyE", "gaode_map_id": ""}
+	}
+]
+}
